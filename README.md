@@ -1,2 +1,2 @@
 # shell-scripts
-shell
+Shell Scripts (https://dev.to/thiht/shell-scripts-matter)
